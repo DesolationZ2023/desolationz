@@ -3,7 +3,7 @@
 	<update>
 		<version>1.1</version>
 		<file>UPDATE.zip</file>		
-		<html>https://onedrive.live.com/download?cid=3FC5215F4C0E8A5B&resid=3FC5215F4C0E8A5B%21189&authkey=AEhynzf3zInZ43U</html>		
+		<html>https://onedrive.live.com/download?cid=3FC5215F4C0E8A5B&ampresid=3FC5215F4C0E8A5B%21189&ampauthkey=AEhynzf3zInZ43U</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>	
