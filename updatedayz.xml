@@ -1,8 +1,8 @@
-<?xml version="1.1" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
 	<update>
-		<version>1.0</version>
-		<file>UPDATE.zip</file>		
+		<version>1.1</version>
+		<file>_Mods.zip</file>		
 		<html>https://onedrive.live.com/download?resid=DF9196CAB18EF24E%21106&authkey=!AOk72WhBRwMhcGg</html>		
 		<command>false</command>
 		<execute>false</execute>
