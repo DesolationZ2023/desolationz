@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<update>
-		<version>1.2</version>
+		<version>1.0</version>
 		<file>UPDATE.zip</file>		
 		<html>https://onedrive.live.com/download?cid=3FC5215F4C0E8A5B&amp;resid=3FC5215F4C0E8A5B%21192&amp;authkey=AIKoVCPcIceH28Q</html>		
 		<command>false</command>
