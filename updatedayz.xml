@@ -2,7 +2,7 @@
 <root>
 	<update>
 		<version>1.1</version>
-		<file>_Mods.zip</file>		
+		<file>UPDATE.zip</file>		
 		<html>https://onedrive.live.com/download?resid=DF9196CAB18EF24E%21106&authkey=!AOk72WhBRwMhcGg</html>		
 		<command>false</command>
 		<execute>false</execute>
